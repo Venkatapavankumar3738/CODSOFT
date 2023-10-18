@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Name - Portfolio</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Venkata Pavan Kumar</h1>
+        <p>Web Developer | Designer | Creative Thinker</p>
+    </header>
+
+    <nav>
+        <ul>
+            <li><a href="#about">About</a></li>
+            <li><a href="#projects">Projects</a></li>
+            <li><a href="#contact">Contact</a></li>
+        </ul>
+    </nav>
+
+    <section id="about">
+        <h2>About Me</h2>
+        <p>My self venkata pavan kumar studying 3rd year btech in computer science and business system.</p>
+    </section>
+      <section id="skills">
+  <div class="skills">
+            <h3>my skills</h3>
+            <p>I have skills on frentend languages like html,css and java script and along with basics in python</p>
+        </div>
+  </section>s
+    <section id="projects">
+        <h2>Projects</h2>
+        <div class="project">
+            <h3>Project 1</h3>
+            <p>webpage to connnect farmers and rice mills direcly without mediator to increase their profits.</p>
+        </div>
+
+    </section>
+
+    <section id="contact">
+        <h2>Contact Me</h2>
+        <p>You can reach me at: <a href="mailto:youremail@example.com">21pa1a5738@vishnu.edu.in</a></p>
+    </section>
+
+    <footer>
+        <p>&copy; 2023 Venkata Pavan Kumar</p>
+    </footer>
+</body>
+</html>
+
