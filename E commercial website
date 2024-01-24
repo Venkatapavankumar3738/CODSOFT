@@ -1,0 +1,36 @@
+/e-commerce
+  /client
+    /src
+      /components
+        ProductList.js
+        ProductDetail.js
+        ShoppingCart.js
+        CheckoutForm.js
+        UserAuthentication.js
+      /pages
+        Home.js
+        ProductListPage.js
+        ProductDetailPage.js
+        ShoppingCartPage.js
+        CheckoutPage.js
+        LoginPage.js
+        SignupPage.js
+      /services
+        api.js
+        auth.js
+        payment.js
+      App.js
+      index.js
+  /server
+    /models
+      Product.js
+      User.js
+    /routes
+      authRoutes.js
+      productRoutes.js
+      paymentRoutes.js
+    /config
+      keys.js
+    server.js
+  package.json
+
